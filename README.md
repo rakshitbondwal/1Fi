@@ -4,7 +4,7 @@
 
 ---
 
-## 📱 Project Overview
+## Project Overview
 
 **1Fi** enables smart shoppers in India to buy electronics, gadgets, and lifestyle products on **0% No-Cost EMI** without liquidating their mutual fund investments. By creating a digital lien via CAMS / KFintech, users unlock a credit line while their portfolio continues compounding in the market.
 
@@ -12,10 +12,10 @@ This repository implements the complete end-to-end **1Fi Marketplace** experienc
 
 ---
 
-## ✨ Key Features & Highlights
+## Key Features and Highlights
 
 ### 1. The Shop Experience & Segmented Navigation
-* **Midnight Purple Hero Banner**: Deep indigo-to-purple background (`#180D58`) with 3D gadgets, gold confetti, and `✨ NO-COST EMIs` badge.
+* **Midnight Purple Hero Banner**: Deep indigo-to-purple background (`#180D58`) with 3D gadgets, gold confetti, and `NO-COST EMIs` badge.
 * **Three-Way Segmented Switcher**:
   * `Top Brands`: Curated partner brand store cards (*Air India*, *Apple*, *CaratLane*).
   * `Nearby Stores`: Local offline verified partner stores.
@@ -30,7 +30,7 @@ This repository implements the complete end-to-end **1Fi Marketplace** experienc
 * **Variant & Storage Selector**: Switch between storage options and color variants with live stock indicators.
 * **Dynamic EMI Recalculation**: Selecting a different variant dynamically updates all 0% EMI plans (3, 6, 9, 12, 24 months) per variant price.
 * **1Fi LAMF Guarantee Card**: Highlights zero downpayment, zero foreclosure fees, and continuous investment compounding.
-* **Sticky Checkout Footer**: Live monthly installment indicator and *"Proceed with plan →"* CTA.
+* **Sticky Checkout Footer**: Live monthly installment indicator and *"Proceed with plan ->"* CTA.
 
 ### 4. Order Review & Mutual Fund Pledge
 * **Lien Pledge Summary**: Transparent breakdown showing 0% interest rate, ₹0 processing fee, zero downpayment, and digital CAMS / KFintech pledge details.
@@ -58,7 +58,7 @@ This repository implements the complete end-to-end **1Fi Marketplace** experienc
 
 ---
 
-## 🏗️ Architecture & Technology Stack
+## Architecture and Technology Stack
 
 * **Core**: React Native (Expo SDK 52)
 * **Language**: TypeScript (100% strict type safety, 0 compiler errors)
@@ -73,7 +73,7 @@ This repository implements the complete end-to-end **1Fi Marketplace** experienc
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 1fi-marketplace/
@@ -126,7 +126,7 @@ This repository implements the complete end-to-end **1Fi Marketplace** experienc
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * **Node.js** (v18 or higher recommended)
@@ -137,9 +137,10 @@ This repository implements the complete end-to-end **1Fi Marketplace** experienc
 
 1. **Clone the repository**:
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd 1fi-marketplace
+   git clone https://github.com/rakshitbondwal/1Fi.git
+   cd 1Fi
    ```
+
 
 2. **Install dependencies**:
    ```bash
