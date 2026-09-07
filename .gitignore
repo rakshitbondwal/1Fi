@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+
+# Expo & Build artifacts
+.expo/
+dist/
+web-build/
+.expo-shared/
+
+# Exclude external templates and reference materials
+design-templates/
+design-templates
+
+# Environment & Secrets
+.env
+.env*.local
+*.pem
+
+# Logs & temporary files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
